@@ -1,5 +1,6 @@
 ---
 title: main
+layout: default
 ---
 
 # laser-tag theme
