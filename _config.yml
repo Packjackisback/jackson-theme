@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: laser-tag 
+description: "a simple theme bringing back the neon carpets of your favorite mall arcade."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
